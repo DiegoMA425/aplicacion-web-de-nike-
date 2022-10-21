@@ -1,0 +1,56 @@
+{
+    "name": " PWA Diego Maldonado Amaya",
+    "short_name" : "DMA",
+    "description" : "aplicacion pwa de curso aplicaciones web progresivas",
+    "background_color": "rgba(158, 221, 192, 0.712);",
+    "theme_color": "#333",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./index.html?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {
+            "src":"./images/Apple1.jpg",
+            "size":"1024x1024",
+            "type":"image/jpg"
+        },
+        {
+            "src":"./images/Apple.png",
+            "size":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/Apple1.1.jpg",
+            "size":"384x384",
+            "type":"image/jpg"
+        },
+        {
+            "src":"./images/Apple1.2.jpg",
+            "size":"256x256",
+            "type":"image/jpg"
+        },
+        {
+            "src":"./images/Apple1.3.jpg",
+            "size":"192x192",
+            "type":"image/jpg"
+        },
+        {
+            "src":"./images/facebook.png",
+            "size":"96x96",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/instagram.png",
+            "size":"64x64",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/twiter.png",
+            "size":"32x32",
+            "type":"image/png"
+        }
+    ]
+
+
+}

@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: white;
+}
+
+#logo{
+    width: 60%;
+    float: left;
+}
+
+#logo h1{
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 400;    
+}
+
+#menu{
+    width: 300px;
+    float: right;
+}
+
+#menu ul li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color: red;
+    font-size: 15px;
+
+}
+
+.clearfix{
+    clear: both;
+    float: none;   
+}
+
+#slide{
+    width: 100%;
+    height: 200px;
+    background-color: red;
+    line-height: 180px;
+}
+
+#slide h1{
+    color:white;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.forma{
+    width: 30%;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
