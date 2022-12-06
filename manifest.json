@@ -11,30 +11,26 @@
     "lang":"es-MX",
     "icons":[
         {
-            "src":"./images/Apple1.jpg",
+            "src":"./images/nike1.jpg",
             "size":"1024x1024",
             "type":"image/jpg"
         },
         {
-            "src":"./images/Apple.png",
+            "src":"./images/nike2.jpg",
             "size":"512x512",
-            "type":"image/png"
+            "type":"image/jpg"
         },
         {
-            "src":"./images/Apple1.1.jpg",
+            "src":"./images/nike3.jpg",
             "size":"384x384",
             "type":"image/jpg"
         },
         {
-            "src":"./images/Apple1.2.jpg",
+            "src":"./images/logo.jpg",
             "size":"256x256",
             "type":"image/jpg"
         },
-        {
-            "src":"./images/Apple1.3.jpg",
-            "size":"192x192",
-            "type":"image/jpg"
-        },
+        
         {
             "src":"./images/facebook.png",
             "size":"96x96",
@@ -49,7 +45,21 @@
             "src":"./images/twiter.png",
             "size":"32x32",
             "type":"image/png"
+        },
+        {
+            "src":"./images/video1.mp4",
+            "size":"32x32",
+            "type":"image/mp4"
+        },  {
+            "src":"./images/video2.mp4",
+            "size":"32x32",
+            "type":"image/mp4"
+        },  {
+            "src":"./images/video3.mp4",
+            "size":"32x32",
+            "type":"image/mp4"
         }
+
     ]
 
 
